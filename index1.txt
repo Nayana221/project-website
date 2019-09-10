@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>enginomatic</title>
+</head>
+<style>
+input:hover{
+background-color:white;
+color:white;
+padding-top:15px;
+padding-left:25px;
+padding-right:25px;
+padding-bottom:15px;
+}
+button{
+background-color:blue;
+padding:10px 25px;
+font-size:15px;
+color:white;
+cursor:pointer;
+}
+img{
+display:inline;
+padding-left:40%;
+}
+.elem{
+margin:25px;
+}
+</style>
+<body>
+<h1 align="center" class="heading" style="color:black;border:1px solid black">ENGINOMATIC</h1></b>
+<b><h2>Personal</h2></b>
+<h3>this is me</h3>
+<h1>NAYANA</h1>
+<p>below you will find our collection of inspiration<br>wise,discovery gives a proverbs collected from variety of the sources</p>
+<button type="submit">DISCOVER NOW</button>
+<a href="login.html">go to login page</a>
+</div>
+<div class="elem">
+<img src="discovery.jpg" width="250px" height="175px">
+</div>
+<div class="elem">
+<h3>About me</h3>
+<h2>PERSONAL DETAILS</h2>
+<p>Im a person who doesn't believe for second chance giving by a life according to me first choice is forever best<br>Lets accept each and every moment
+of life rather then blaming.<br>And automatically
+life gives us a beautiful feature.</p>
+<button type="submit">VIEW FULL DETAILS</button>
+</div>
+<h1 align="center">my offered services</h1>
+<p>"Everyone can be a great because everyone can serve.<br>you don't have to have a college eduction to serve.<br>You don't even have to make your subjects and verbs agree to serve.<br>You only need a heart
+full of grace"</p>
+<p>The call of service is not always easy or uplifting.There are hazards that come with the territory,such as misunderstanding.<br>Nonetheless,young and old
+continue to be buyed by thier experience of community while providing service<br>and by the personal fulfillment of doing something worthwhile for others.</P>
+<ul>
+<b><li><i class="fab fa-accessible-icon"></i>Web Development</li><br>
+<li></i> Web Design</li><br>
+<li> Photography</li><br>
+<li>Graphic Design</li></b>
+</ul>
+<br>
+<b><p>Don't be late join us</p></b>
+<form action="">
+E-mail:<input type="text"
+placeholder="enter e-mail adrress" required/><br>
+</form>
+<button type="submit">Submit</button>
+</div>
+</body>
+</html>
